@@ -9,3 +9,7 @@ conda create -n cb python=3.10 -y
 ```bash
 conda activate cb
 ```
+
+```bash
+pip install -r requirements.txt 
+```
