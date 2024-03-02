@@ -1,0 +1,5 @@
+ctransformers==0.2.5 # i am using cpu for that i need load the quantize model that's why need ctransformers library for it.
+sentence-transformers==2.2.2 # embedding model 
+pinecone-client # vector database
+langchain==0.0.255 # generative ai framework
+flask
